@@ -4,3 +4,5 @@ def factorial(number):
     return number * factorial(number - 1)
 
 print(factorial(3))
+
+print("This is about recurssion")
