@@ -33,6 +33,8 @@ choices = get_choice()
 
 result = check_win(choices["player"], choices["computer"])
 print (result)
+
+print("First ever game")
     
     
     
