@@ -40,3 +40,6 @@ deck2 = Deck()
 deck2.shuffle()
 print(deck1.cards)
 print(deck2.cards)
+print("Yes")
+
+
